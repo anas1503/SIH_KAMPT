@@ -11,9 +11,9 @@
 
 .logo{
      color:#393E46;
-     font-size: 25px;
-     padding-top: 1%;
-     padding-left: 5%; 
+     font-size: 35px;
+     padding-top: 10px;
+     padding-left: 9%; 
      font-family:'Times New Roman', Times, serif;
      font-weight:bolder ;
 
@@ -24,7 +24,14 @@
     /* background: #000; */
     color:#393E46;
      font-size: 25px;
+     font-weight: bold;
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+.btn1{
+    background-color: #00ADB5;
+    border-radius: 4px;
+    padding: 7px;
 }

@@ -7,7 +7,7 @@ const Header = () => {
         <p className="logo">KAMPT</p>
         <div className="login">
             <p>Login</p>
-            <submit>Sign UP</submit>
+            <submit className="btn1">Sign UP</submit>
         </div>
     </div>
   )

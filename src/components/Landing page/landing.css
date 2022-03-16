@@ -1,0 +1,33 @@
+.landing_container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.L-landing{
+    width: 30%;
+    height: 330px;
+    /* background:chocolate; */
+    margin-top:75px;
+    margin-left:25px;
+}
+
+.btn2{
+    position: absolute;
+    top:58%;  
+    font-size: 30px;
+    width: 100xp;
+    background-color: #00ADB5;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.q1{
+    font-size: 60px;
+    line-height: 65px;
+    font-weight: bold;
+}
+
+.R-landing{
+     width: 40%;
+    
+}
